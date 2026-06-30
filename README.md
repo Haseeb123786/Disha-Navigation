@@ -4,6 +4,8 @@
 
 ---
 
+🏆 **Achievement:** Awarded **2nd Place** at **Mini Hackathon 2.0** hosted by ITS Engineering College for developing **DISHA**, an AI-powered offline navigation assistant for visually impaired users.
+
 ## ✨ Key Features
 
 | Feature | Description |
@@ -102,8 +104,8 @@ assets/
 
 ```bash
 # Clone the repository
-git clone https://github.com/SavitaK8/disha.git
-cd disha
+git clone https://github.com/Haseeb123786/Disha-Navigation.git
+cd Disha-Navigation
 
 # Install dependencies
 flutter pub get
@@ -193,6 +195,19 @@ Context objects (doors, stairs, elevators) get separate announcements with an 8-
 - **No analytics, tracking, or telemetry**
 
 ---
+
+👥 Team
+
+DISHA was developed collaboratively by Team OrvaneX during Mini Hackathon 2.0.
+
+Team Members
+
+- Syed Mohammad Haseeb
+- Shagun Bhoj
+- Jahnvi Dobal
+- Savita K:
+  GitHub: https://github.com/SavitaK8
+
 
 ## 📄 License
 
